@@ -145,7 +145,7 @@ A web application for hostel-related management operations.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aswin77-lab/aswin77-lab/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-</p>---
+</p>
 
 "08 // CONNECT WITH ME"
 
